@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Je suis Développeur en Intelligence Artificielle et Data</h1>
+<h1 align="center">Développeur en Intelligence Artificielle et Data</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmycodeur&label=Profile%20views&color=0e75b6&style=flat" alt="jimmycodeur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmycodeur" alt="jimmycodeur" /></a> </p>
