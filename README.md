@@ -30,6 +30,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmycodeur&" />
   <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmycodeur&show_icons=true&locale=en" alt="jimmycodeur" />
+  <br>
   <a href="https://github.com/Loke-60000/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmycodeur&hide=html,css,scss,shell,texshow_icons=true&locale=en&layout=compact" />
   </a>
