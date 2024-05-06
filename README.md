@@ -63,9 +63,7 @@
       <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
 </p>
-
 <h1 align='center'>📊 Statistiques</h1>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmycodeur&" />
   <br>
