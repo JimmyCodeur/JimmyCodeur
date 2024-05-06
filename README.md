@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmycodeur&show_icons=true&locale=en&layout=compact" alt="jimmycodeur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmycodeur&show_icons=true&locale=en" alt="jimmycodeur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmycodeur&hide=html,css,scss,shell,tex&show_icons=true&locale=en" alt="jimmycodeur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmycodeur&" alt="jimmycodeur" /></p>
 
