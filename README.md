@@ -1,5 +1,6 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">🤖 Développeur en Intelligence Artificielle et Data</h1>
+
 ---
 
 **`Web Developer`** | **`AI & Data Developer`**
