@@ -1,13 +1,11 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">🤖 Développeur en Intelligence Artificielle et Data
+<h1 align="center">🤖 Développeur en Intelligence Artificielle et Data</h1>
+
 **`Web Developer`** | **`AI & Data Developer`**
-</h1>
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimmycodeur" alt="jimmycodeur" /></a> </p>
 
-<h3 align="left">Me contacter :</h3>
+<h3 align="center">Me contacter :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jimmy-fernandez-fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmy-fernandez-fr/" height="30" width="40" /></a>
 </p>
