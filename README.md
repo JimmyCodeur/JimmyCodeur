@@ -1,22 +1,22 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 **`Web Developer`** | **`AI & Data Developer`**
 
-<h1 align="center">🤖 Développeur en Intelligence Artificielle et Data</h1>
+<h1 align="center">🤖 Developer in Artificial Intelligence and Data</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jimmycodeur" alt="jimmycodeur" /></a> </p>
 
-<h2 align='center'>💪 Certifié AZ 900</h2>
+<h2 align='center'>💪 Certified AZ 900</h2>
 
 <p align="center">
    <img align="center" alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
 </p>
 
-<h1 align="center">📧 Me contacter</h1>
+<h1 align="center">📧 Contact me</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jimmy-fernandez-fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmy-fernandez-fr/" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">⚙️ Langages et Outils</h1>
+<h1 align="center">⚙️ languages and tools</h1>
 
 <h2 align="center">Web</h2>
 <p align="center">
@@ -37,7 +37,7 @@
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">Base de données</h2>
+<h2 align="center">Database</h2>
 <p align="center">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
@@ -45,12 +45,12 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">Mobile</h2>
+<h2 align="center">Software dev AI, data, WEB & WEB Mobile</h2>
 <p align="center">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">Software & Outils</h2>
+<h2 align="center">Software & Tools</h2>
 
 <p align="center"> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -63,7 +63,7 @@
       <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
 </p>
-<h1 align='center'>📊 Statistiques</h1>
+<h1 align='center'>📊 Statistics</h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmycodeur&" />
   <br>
