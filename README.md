@@ -8,7 +8,7 @@
 <h2 align='center'>💪 Certified AZ 900</h2>
 
 <p align="center">
-   <img align="center" alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
+   <img align="center" alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" alt="[https://www.linkedin.com/in/jimmy-fernandez-fr/](https://learn.microsoft.com/api/credentials/share/fr-fr/jimmydevia-6903/337DAFEFF7542176?sharingId=8A0DF15E49BBB47E)" style="padding-right:10px;" />
 </p>
 
 <p align="center">
