@@ -11,6 +11,10 @@
    <img align="center" alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
 </p>
 
+<p align="center">
+   <img align="center" alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
+</p>
+
 <h1 align="center">📧 Contact me</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jimmy-fernandez-fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmy-fernandez-fr/" height="30" width="40" /></a>
