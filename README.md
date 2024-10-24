@@ -13,6 +13,12 @@
    </a>
 </p>
 
+<p align="center">
+   <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/jimmydevia-6903/BB7EB3B9A873714E?sharingId=8A0DF15E49BBB47E">
+      <img align="center" alt="Certification Microsoft" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
+   </a>
+</p>
+
 <h1 align="center">📧 Contact me</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jimmy-fernandez-fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmy-fernandez-fr/" height="30" width="40" /></a>
