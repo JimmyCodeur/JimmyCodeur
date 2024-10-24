@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jimmycodeur" alt="jimmycodeur" /></a> </p>
 
-<h2 align='center'>💪 Certified AZ 900</h2>
+<h2 align='center'>💪 Certified AZ 900 & AI 900</h2>
 
 <p align="center">
    <img align="center" alt="az900" src="https://github.com/Loke-60000/Loke-60000/blob/6fe9aa493af089cc6ec563567ccf3bdea26d231c/assets/microsoft-certified-fundamentals-badge.svg" width="100" style="padding-right:10px;" />
-   <a href="https://www.linkedin.com/in/jimmy-fernandez-fr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmy-fernandez-fr/" height="30" width="40" /></a>
+   <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/jimmydevia-6903/337DAFEFF7542176?sharingId=8A0DF15E49BBB47E" target="blank"><img align="center" alt="https://learn.microsoft.com/api/credentials/share/fr-fr/jimmydevia-6903/337DAFEFF7542176?sharingId=8A0DF15E49BBB47E" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">📧 Contact me</h1>
