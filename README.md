@@ -3,7 +3,7 @@
 
 <h1 align="center">🤖 Developer in Artificial Intelligence and Data</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jimmycodeur" alt="jimmycodeur" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" alt="jimmycodeur" /></a> </p>
 
 <h2 align='center'>💪 Certified AZ 900 & AI 900</h2>
 
