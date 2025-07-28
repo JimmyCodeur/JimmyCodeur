@@ -1,7 +1,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 **`Web Developer`** | **`AI & Data Developer`**
 
-<h1 align="center">🤖 Developer in Artificial Intelligence and Data</h1>
+<h1 align="center">🤖 Developer in Artificial Intelligence</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jimmycodeur" alt="jimmycodeur" /></a> </p>
 
